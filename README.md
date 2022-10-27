@@ -1,5 +1,5 @@
 # Pygame Timer
-A minimal, lightweight timer app made with python/pygame
+A minimal, lightweight timer app made with python/pygame. A clone of [Taq Timer](http://timer.taqtile.io/).
 
 ## How to run
 - Open a terminal and first install the requirements (`pip install -r requirements.txt`)
